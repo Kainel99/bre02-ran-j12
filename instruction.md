@@ -72,7 +72,7 @@ Pour tester si cela fonctionne utilisez ceci :
 console.log(getSelectedColor());
 ```
 
-Si cela n'affiche pas `null` mai une couleur RGB c'est que c'est bon.
+Si cela n'affiche pas `null` mais une couleur RGB c'est que c'est bon.
 
 
 ## Etape 3 : Colorier les cases
